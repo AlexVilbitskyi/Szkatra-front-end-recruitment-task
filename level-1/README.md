@@ -1,0 +1,1 @@
+In IE11 it works fine.
